@@ -33,7 +33,7 @@ Giao diện của chương trình
 
 * Nhập email của bạn: $ ssh-keygen -t rsa -b 4096 -C"your_email@example.com"  
 
-* Enter a file in which to save the key (/Users/you/.ssh/id_sra): Pres Enter  
+* Enter a file in which to save the key (/Users/you/.ssh/id_sra): Press Enter  
 
 * Nếu nhập passphrase thì nhớ pass  
 
